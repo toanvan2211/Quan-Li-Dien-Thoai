@@ -1,0 +1,74 @@
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe.config
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.pdb
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Login.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Main.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Properties.Resources.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Info.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Product.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Sale.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csproj.GenerateResource.cache
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.exe
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.pdb
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csprojAssemblyReference.cache
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe.config
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.exe
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.pdb
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csprojResolveAssemblyReference.cache
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Login.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Main.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Properties.Resources.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Info.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Product.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Sale.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Statistical.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Store.resources
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csproj.GenerateResource.Cache
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\Database1.mdf
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\Database1_log.ldf
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe
+E:\Dữ liệu\PJ\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.pdb
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Statistical.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.ChangePassword.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.ManagerAccount.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.Inventory.resources
+E:\PJ\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UpdateInfo.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe.config
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.pdb
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.ChangePassword.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Login.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Main.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.ManagerAccount.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Properties.Resources.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UpdateInfo.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.exe
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.pdb
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Info.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Product.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Sale.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Statistical.resources
+C:\Users\PC\Desktop\QuanLiDienThoai\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Inventory.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe.config
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.exe
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\bin\Debug\QuanLiDienThoai.pdb
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.ChangePassword.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Login.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Main.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.ManagerAccount.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Properties.Resources.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Info.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Product.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Sale.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Statistical.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UC.UC_Inventory.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.UpdateInfo.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csproj.GenerateResource.cache
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.exe
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.pdb
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.AddEmloyees.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Info.resources
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.csprojAssemblyReference.cache
+E:\PJ\QuanLiDienThoai_V2\QuanLiDienThoai\obj\Debug\QuanLiDienThoai.Import.resources
